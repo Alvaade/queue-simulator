@@ -1,6 +1,6 @@
 # Pizza Rex Simulator
 
-Pizza Rex Simulator is a three-phase queueing simulation designed to model the daily operations of a pizzeria, developed at Metropolia University of Applied Sciences.
+Pizza Rex Simulator is a three-phase queuing simulation designed to model the daily operations of a pizzeria, developed at Metropolia University of Applied Sciences.
 
 The simulator helps users analyze staffing levels, customer flow, pricing, operational capacity and profitability under various scenarios.
 
