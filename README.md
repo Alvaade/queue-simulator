@@ -51,9 +51,9 @@ Requires:
 
 ## Documentation (FINNISH)
 
--[Project Documentation](./project_document_fin.pdf)
+- [Project Documentation](./project_document_fin.pdf)
 
--[User Manual](./pizza_rex_manual_fin.pdf)
+- [User Manual](./pizza_rex_manual_fin.pdf)
 
 ---
 
