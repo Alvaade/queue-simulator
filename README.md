@@ -4,7 +4,7 @@ Pizza Rex Simulator is a three-phase queueing simulation designed to model the d
 
 The simulator helps users analyze staffing levels, customer flow, pricing, operational capacity and profitability under various scenarios.
 
---
+---
 
 ## Features
 
@@ -52,6 +52,7 @@ Requires:
 ## Documentation (FINNISH)
 
 -[Project Documentation](./project_document_fin.pdf)
+
 -[User Manual](./pizza_rex_manual_fin.pdf)
 
 ---
